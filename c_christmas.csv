@@ -1,0 +1,23 @@
+,track,artist,uri,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,chorus_hit,sections,target,decade,duration_sec,loudness_rounded,christmas,country
+618,Jingle Bell Rock,Bobby Helms,spotify:track:3hBXvHLlTHvnbwrPbeoyAj,0.754,0.424,2,-8.463,1,0.0363,0.643,0.0,0.0652,0.806,119.705,130973,4,38.40391,7,1,2010,131.0,-8.0,True,False
+757,Mistletoe,Justin Bieber,spotify:track:7xapw9Oy21WpfEcib2ErSA,0.658,0.56,6,-9.049,0,0.0467,0.498,0.0,0.0794,0.854,161.994,182947,4,42.14998,10,1,2010,183.0,-9.0,True,False
+856,A Holly Jolly Christmas,Burl Ives,spotify:track:65Q2mv3UlVi9eO70OpsmSe,0.683,0.375,0,-13.056,1,0.0303,0.579,0.0,0.076,0.888,140.467,135533,4,56.0167,7,1,2010,136.0,-13.0,True,False
+1601,Christmas Tree Farm,Taylor Swift,spotify:track:2mvabkN1i2gLnGAPUVdwek,0.598,0.68,7,-4.505,1,0.0331,0.06,0.0,0.324,0.437,134.002,228027,4,56.66473,9,1,2010,228.0,-5.0,True,False
+1693,Sleigh Ride,The Ronettes,spotify:track:5ASM6Qjiav2xPe7gRkQMsQ,0.528,0.772,2,-7.013,1,0.0288,0.403,2.52e-06,0.316,0.852,91.735,181267,4,51.00455,6,1,2010,181.0,-7.0,True,False
+2576,Little Drummer Boy,Pentatonix,spotify:track:7BvCDrlYwJ5D9RUqvvs3BT,0.713,0.411,8,-8.24,1,0.0355,0.3,7.19e-05,0.0763,0.626,134.007,255879,4,23.37582,14,1,2010,256.0,-8.0,True,False
+3421,Santa Tell Me,Ariana Grande,spotify:track:0lizgQ7Qw35od7CYaoMBZb,0.525,0.621,7,-7.364,1,0.116,0.0489,0.0,0.294,0.591,191.9,204093,4,29.39888,8,1,2010,204.0,-7.0,True,False
+3528,Rockin' Around The Christmas Tree,Brenda Lee,spotify:track:2EjXfH91m7f8HiJN1yQg97,0.589,0.472,8,-8.749,1,0.0502,0.614,0.0,0.505,0.898,67.196,126267,4,33.91817,6,1,2010,126.0,-9.0,True,False
+3803,Christmas Lights,Coldplay,spotify:track:4fzyvSu73BhGvi96p2zwjL,0.312,0.418,7,-9.146,1,0.0296,0.131,0.000679,0.0836,0.237,130.795,242496,4,22.77677,9,1,2010,242.0,-9.0,True,False
+4732,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,spotify:track:2uFaJJtFpPDc5Pa95XzTvg,0.452,0.24,1,-14.014,1,0.0351,0.912,2.45e-06,0.175,0.701,134.005,117147,4,24.79963,8,1,2010,117.0,-14.0,True,False
+5124,Have Yourself A Merry Little Christmas,Sam Smith,spotify:track:1Qi2wh8fFgDV7tl4Sj3f2K,0.438,0.178,5,-9.402,1,0.0414,0.957,0.0,0.316,0.344,75.248,170964,1,53.01841,6,1,2010,171.0,-9.0,True,False
+5213,Like It's Christmas,Jonas Brothers,spotify:track:1OjmlSFuzYflWjSMTCyTJv,0.725,0.571,1,-6.007,1,0.102,0.0183,0.0,0.0519,0.61,146.035,200880,4,22.13985,10,1,2010,201.0,-6.0,True,False
+5944,Little Drummer Boy,for KING & COUNTRY,spotify:track:7I1zsQGKGdUEbP4rQPzcYK,0.665,0.617,2,-5.944,1,0.0464,0.036,7.09e-05,0.126,0.149,103.994,215533,3,61.52087,9,0,2010,216.0,-6.0,True,False
+6216,The Christmas Song (Merry Christmas To You),Nat King Cole,spotify:track:4PS1e8f2LvuTFgUs1Cn3ON,0.319,0.21,1,-15.231,1,0.0341,0.92,8.06e-05,0.138,0.209,78.696,192160,4,51.77382,11,1,2010,192.0,-15.0,True,False
+6372,Last Christmas,Wham!,spotify:track:6wn2nmFn3wDuiMldRiuRuL,0.757,0.618,11,-7.964,0,0.0282,0.262,0.0,0.221,0.861,106.856,267160,4,18.19036,13,1,2010,267.0,-8.0,True,False
+22329,Fairytale of New York (feat. Kirsty MacColl),The Pogues,spotify:track:3VTNVsTTu05dmTsVFrmGpK,0.319,0.651,2,-6.335,1,0.0342,0.501,4.73e-05,0.241,0.474,118.501,272200,4,36.91286,12,0,1980,272.0,-6.0,True,False
+33327,Jingle Bell Rock,Bobby Helms,spotify:track:3hBXvHLlTHvnbwrPbeoyAj,0.754,0.424,2,-8.463,1,0.0363,0.643,0.0,0.0652,0.806,119.705,130973,4,38.40391,7,1,1960,131.0,-8.0,True,False
+34359,This Christmas,Donny Hathaway,spotify:track:7dIrGse79lwy5bQ73G4RDT,0.634,0.645,5,-9.2,1,0.0376,0.292,0.0,0.246,0.677,93.05,231173,4,41.06049,11,0,1960,231.0,-9.0,True,False
+36715,O Holy Night,Mariah Carey,spotify:track:7IlMSABbR3EVnqbZ3qkr4x,0.353,0.515,4,-7.325,1,0.0293,0.357,5.6e-06,0.14,0.168,173.943,266360,3,45.73024,12,0,1960,266.0,-7.0,True,False
+37234,Rockin' Around The Christmas Tree,Brenda Lee,spotify:track:2EjXfH91m7f8HiJN1yQg97,0.589,0.472,8,-8.749,1,0.0502,0.614,0.0,0.505,0.898,67.196,126267,4,33.91817,6,1,1960,126.0,-9.0,True,False
+40017,White Christmas,Bing Crosby,spotify:track:4so0Wek9Ig1p6CRCHuINwW,0.317,0.158,9,-16.485,1,0.0381,0.673,0.353,0.338,0.247,130.503,177480,3,87.95962,6,1,1960,177.0,-16.0,True,False
+40841,The Christmas Song (Merry Christmas To You),Nat King Cole,spotify:track:4PS1e8f2LvuTFgUs1Cn3ON,0.319,0.21,1,-15.231,1,0.0341,0.92,8.06e-05,0.138,0.209,78.696,192160,4,51.77382,11,1,1960,192.0,-15.0,True,False
